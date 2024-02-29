@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "641572541062",
+    "project_id": "watch-vault-926e2",
+    "storage_bucket": "watch-vault-926e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641572541062:android:677a5e88ac922a645eb707",
+        "android_client_info": {
+          "package_name": "com.example.watch_vault"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "641572541062-m3eokipe3r8ii122n4somn8h5ra9qurv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDERH4EFLmLFDX7Q-VJmeQ79HspjoKISy8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "641572541062-m3eokipe3r8ii122n4somn8h5ra9qurv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "641572541062-3nmkt87olm87kibc171trmakgf17dto3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.watchVault"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
